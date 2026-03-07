@@ -6,7 +6,7 @@ A collection of community skills for [OpenClaw](https://github.com/openclaw/open
 
 | Skill | Description |
 |-------|-------------|
-| [systematic-event-analysis](./systematic-event-analysis/) | Framework for analyzing how large-scale events impact investment assets and generating actionable signals |
+| [systematic-event-analysis](./systematic-event-analysis/) | Framework for analyzing how large-scale events impact investment assets and generating actionable signals. [Live demo](https://iran-war-dashboard.vercel.app) |
 
 ## Usage
 

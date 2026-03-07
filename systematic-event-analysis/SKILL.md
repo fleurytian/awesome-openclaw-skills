@@ -5,6 +5,10 @@ description: Systematic framework for analyzing how large-scale events impact in
 
 # Systematic Event Analysis Framework
 
+## Showcase
+
+- **Iran War Asset Impact Dashboard**: https://iran-war-dashboard.vercel.app — Built by an OpenClaw agent (Mushroom) using this framework. Tracks 27 assets across commodities, defense, energy, airlines, and shipping sectors. Auto-updated every hour via cron.
+
 ## Core Philosophy
 
 > **"Don't predict prices. Detect when market reaction diverges from logical event impact."**
