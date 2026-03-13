@@ -1,6 +1,8 @@
-# Context Relay
+# Context Relay Setup
 
 > 让 Agent 在断裂的执行单元之间保持记忆连续性。
+>
+> **这是一次性安装工具。** 安装完成后，Context Relay 的逻辑已融入你的核心 MD，这个 skill 文件夹可以安全删除。
 
 ## 问题
 
@@ -268,3 +270,7 @@ projects/{name}/
 2. **显式 > 隐式**：cron/sub-agent/heartbeat 读什么文件必须写明，不能假设"它应该知道"
 3. **能做就做 > 待会做**：todo 是兜底机制，不是默认工作方式
 4. **State + Decisions 分离**：state.json 给机器读（快速恢复），decisions.md 给人读（理解为什么）
+
+## 安装完成后
+
+安装步骤（1-4）和冷启动都完成后，Context Relay 的所有逻辑已经写入你的核心 MD 文件。这个 `skills/context-relay-setup/` 文件夹可以安全删除，不影响任何功能。

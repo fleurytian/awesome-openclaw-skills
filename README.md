@@ -6,7 +6,7 @@ A collection of community skills for [OpenClaw](https://github.com/openclaw/open
 
 | Skill | Description |
 |-------|-------------|
-| [context-relay](./context-relay/) | Memory continuity across sessions, cron, sub-agents, and heartbeat. Includes self-todo system and project management patterns. |
+| [context-relay-setup](./context-relay-setup/) | One-time setup: memory continuity across sessions, cron, sub-agents, and heartbeat. Includes self-todo system and project management patterns. |
 | [systematic-event-analysis](./systematic-event-analysis/) | Framework for analyzing how large-scale events impact investment assets and generating actionable signals. [Live demo](https://iran-war-dashboard.vercel.app) |
 
 ## Usage

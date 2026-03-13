@@ -1,6 +1,8 @@
-# Context Relay
+# Context Relay Setup
 
 > Let agents maintain memory continuity across broken execution boundaries.
+>
+> **One-time setup.** After installation, the framework lives in your agent's core MDs. This skill folder can be safely deleted.
 
 ## The Problem
 
