@@ -92,7 +92,7 @@ OpenClaw Agent 的记忆会在多个地方断裂：
 
 #### 2c. 项目管理
 
-```markdown
+````markdown
 ## 项目管理
 
 ### 项目结构
@@ -161,7 +161,7 @@ projects/{name}/
 ```
 
 子 agent 不继承父 session 的记忆，必须通过文件显式传递 context。
-```
+````
 
 ### 步骤 3：在你的 HEARTBEAT.md 中加入 todo 捡取
 
