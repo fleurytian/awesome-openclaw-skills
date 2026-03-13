@@ -1,8 +1,10 @@
 # Context Relay Setup
 
-> Let agents maintain memory continuity across broken execution boundaries.
->
-> **One-time setup.** After installation, the framework lives in your agent's core MDs. This skill folder can be safely deleted.
+> Give your agent a spa day for its brain. Declutter the chaos, boost its "management IQ", and make sure it never forgets what it promised.
+
+A one-time setup that teaches your agent to maintain memory continuity across broken execution boundaries — sessions, cron jobs, sub-agents, and heartbeat.
+
+**Install once, delete the folder.** The framework lives in your agent's core MDs after setup.
 
 ## The Problem
 
